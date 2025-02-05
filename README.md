@@ -4,4 +4,4 @@ After finish Google Codelabs [Real time communication with WebRTC](https://codel
 
 THIS REPO IS NOT FINISH.
 
-[Some WebRTC samples] (https://github.com/webrtc/samples?tab=readme-ov-file)
+[Some WebRTC samples](https://github.com/webrtc/samples?tab=readme-ov-file)
