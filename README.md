@@ -10,8 +10,8 @@ THIS REPO IS NOT FINISH.
 
 ## 📌 1. 初始化專案
 - [ ] 設置前端與後端環境  
-  - [ ] 初始化 **Node.js** 後端 (`express + socket.io`)  
-  - [ ] 初始化 **前端** (`React + TailwindCSS`)  
+  - [ ] 初始化 **Node.js** 後端 (`express + websocket`)  
+  - [x] 初始化 **前端** (`React + TailwindCSS`)  
   - [ ] 設定 WebRTC 必要的前端架構 (`RTCPeerConnection`)  
 
 ## 📌 2. 建立房間管理
